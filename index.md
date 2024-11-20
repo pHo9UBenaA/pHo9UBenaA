@@ -11,5 +11,5 @@ We do not collect any personal information from our users.
 If you have any questions or concerns about our products, please contact us at pho9ubenaa@gmail.com. We will be happy to assist you.
 
 ## Scope of application
-* [Merge Window Extension](https://chrome.google.com/webstore/detail/merge-window-extension/fijodggmkbkjcmlpkpahjpepngppdppb?hl=en-GB&authuser=0)
-* [Tab Cleaner Extension](https://chrome.google.com/webstore/detail/tab-cleaner-extension/lbechddallmndemekdkfkmfjcbloehco?hl=en-GB&authuser=0)
+* [Merge Window Extension](https://github.com/pHo9UBenaA/window-merger-extension)
+* [Tab Cleaner Extension](https://github.com/pHo9UBenaA/tab-cleaner-extension)
