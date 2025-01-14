@@ -11,5 +11,6 @@ We do not collect any personal information from our users.
 If you have any questions or concerns about our products, please contact us at pho9ubenaa@gmail.com. We will be happy to assist you.
 
 ## Scope of application
-* [Merge Window Extension](https://chrome.google.com/webstore/detail/merge-window-extension/fijodggmkbkjcmlpkpahjpepngppdppb?hl=en-GB&authuser=0)
-* [Tab Cleaner Extension](https://chrome.google.com/webstore/detail/tab-cleaner-extension/lbechddallmndemekdkfkmfjcbloehco?hl=en-GB&authuser=0)
+* [Window Merger](https://chromewebstore.google.com/detail/window-merger/fijodggmkbkjcmlpkpahjpepngppdppb)
+* [Pin Switcher](https://chromewebstore.google.com/detail/pin-switcher/egegfclbklldhldifonojknjpbobgjjh)
+* [Tab Cleaner Extension](https://chrome.google.com/webstore/detail/tab-cleaner-extension/lbechddallmndemekdkfkmfjcbloehco)
