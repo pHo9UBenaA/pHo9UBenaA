@@ -15,3 +15,4 @@ If you have any questions or concerns about our products, please contact us at p
 * [Pin Switcher](https://chromewebstore.google.com/detail/pin-switcher/egegfclbklldhldifonojknjpbobgjjh)
 * [Tab Cloner](https://chromewebstore.google.com/detail/tab-cloner/iiflnjgfpgipofepijkimmeapfdphcpg)
 * [Tab Cleaner Extension](https://chrome.google.com/webstore/detail/tab-cleaner-extension/lbechddallmndemekdkfkmfjcbloehco)
+* [Reading List Register](https://chromewebstore.google.com/detail/amjohpekcdmdmlghoeannbceemhkfhng)
